@@ -1,4 +1,5 @@
-👋 Olá, eu sou Guilherme Medeiros
+
+Olá Meu nome é Guilherme Medeiros
 
 🎯 Desenvolvedor Fullstack | Criador de Projetos Web | Entusiasta de Tecnologia
 
@@ -18,7 +19,3 @@ Olá! Meu nome é Guilherme Medeiros, sou um desenvolvedor apaixonado por tecnol
 ✔️ Banco de Dados (MySQL / MongoDB)
 ✔️ Versionamento com Git e GitHub
 ✔️ Lógica de Programação
-
-🌐 Onde me encontrar
-
-📌 Instagram:
