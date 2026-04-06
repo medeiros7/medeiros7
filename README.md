@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Olá, eu sou Guilherme Medeiros
 
-<!--
-**medeiros7/medeiros7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Fullstack | Criador de Projetos Web | Entusiasta de Tecnologia
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Olá! Meu nome é Guilherme Medeiros, sou um desenvolvedor apaixonado por tecnologia e criação de soluções digitais.
+
+💡 Tenho interesse em desenvolvimento web, programação e construção de projetos que resolvem problemas reais.
+
+📚 Estou sempre buscando evoluir minhas habilidades e aprender novas tecnologias para me tornar um profissional cada vez melhor.
+
+🧠 Principais Habilidades
+
+✔️ Desenvolvimento Web (HTML, CSS, JavaScript)
+✔️ Front-end (React / Vue / etc.)
+✔️ Back-end (Node.js / PHP / etc.)
+✔️ Banco de Dados (MySQL / MongoDB)
+✔️ Versionamento com Git e GitHub
+✔️ Lógica de Programação
+
+🌐 Onde me encontrar
+
+📌 Instagram:
